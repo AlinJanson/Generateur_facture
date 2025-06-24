@@ -1,4 +1,4 @@
-# KNN Classification Challenge
+# Générateur de facture pour une micro-entreprise
 
 ## Description
 
