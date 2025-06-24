@@ -42,7 +42,7 @@ cd "votre chemin"
 python main.py
 ```
 3. Aller sur votre navigateur, puis aller sur le site : http://localhost:5000 ou http://127.0.0.1:5000
-4. Faires vos factures
+4. Faire vos factures
 5. Eteigner l'onglet du navigateur et faire **ctrl+c** dans le terminal losque vous aurez fini de faire vos factures
 
 
